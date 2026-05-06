@@ -134,7 +134,7 @@ ntire2026-segmentation-guided-metric-depth/
 
 ## Dataset
 
-**Booster Dataset** — [CVPR 2022](https://cvpr.thecvf.com/virtual/2022/paper/2198)
+**NTIRE 2026 Challenge Dataset** — [CodaBench Competition](https://codabench.org/competitions/12778/)
 
 - 419 high-resolution stereo pairs across 64 indoor scenes
 - 38 scenes (228 stereo pairs) released for training
