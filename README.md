@@ -1,6 +1,6 @@
 # Segmentation-Guided Metric Depth Estimation for Specular and Transparent Surfaces
 
-> **NTIRE 2026 Challenge — Track 2: Metric Mono | 🏆 4th Place out of 60 teams**
+> **NTIRE 2026 Challenge — Track 2: Metric Mono | 🏆 4th Place**
 
 A parameter-efficient pipeline for high-resolution metric depth estimation on indoor scenes containing transparent glass and mirror surfaces. The system combines a fine-tuned SAM2 segmentation model with a Depth Anything V2 + ZoeDepth ensemble, using segmentation boundaries to guide and sharpen depth predictions at challenging non-Lambertian surfaces.
 
