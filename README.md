@@ -5,15 +5,13 @@
 A parameter-efficient pipeline for high-resolution metric depth estimation on indoor scenes containing transparent glass and mirror surfaces. The system combines a fine-tuned SAM2 segmentation model with a Depth Anything V2 + ZoeDepth ensemble, using segmentation boundaries to guide and sharpen depth predictions at challenging non-Lambertian surfaces.
 
 ---
-
 ## Result
 
-| Input Image | Predicted Depth Map |
-|:-----------:|:-------------------:|
-| <img width="1600" height="585" alt="WhatsApp Image 2026-03-16 at 14 27 55" src="https://github.com/user-attachments/assets/dc63811a-29fb-48e6-90c9-c5747791b2e6" />|
+| Input Image vs. Predicted Depth Map |
+|:-----------------------------------:|
+| ![Depth Estimation Result](https://github.com/user-attachments/assets/dc63811a-29fb-48e6-90c9-c5747791b2e6) |
 
 > Blue/purple = closer objects. Orange/yellow = farther surfaces. Object boundaries are sharp and physically correct.
-
 ---
 
 ## Key Results
