@@ -124,8 +124,8 @@ ntire2026-segmentation-guided-metric-depth/
 │   ├── loss.py               # Combined segmentation loss
 │   └── infer.py              # SAM2 inference
 ├── depth_estimation/
-│   ├── train_depth.py        # Depth Anything V2 fine-tuning
-│   └── infer_depth_final.py  # Full inference pipeline
+│   ├── train.py        # Depth Anything V2 fine-tuning
+│   └── inference.py  # Full inference pipeline
 ├── Requirements.txt
 └── README.md
 ```
