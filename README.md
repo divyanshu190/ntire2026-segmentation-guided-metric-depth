@@ -239,7 +239,7 @@ This creates `depth_final_submission.zip` ready for CodaLab upload.
 
 - **Challenge:** [NTIRE 2026: HR Depth from Images of Specular and Transparent Surfaces](https://codabench.org/competitions/12778)
 - **Track:** Track 2 — Metric Mono
-- **Result:** 4th place / 60 teams
+- **Result:** 4th place / 210 teams
 
 ---
 
